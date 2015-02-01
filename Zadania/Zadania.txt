@@ -1,0 +1,3 @@
+1. Napisz aplikacje sortujaca wektor liczb dowolnej dlugosci. Wczytanie wektora ma sie odbywac nastepujaco: wczytaj rozmiar, a nastepnie kolejno wartosci elementow. Do sortowania mozna uzyc funkcji z biblioteki standardowej, chociaz zalecam napisanie wlasnej funkcji sortujacej.
+2. Zmodyfikuj powyzszy program o mozliwosc ustalania kolejnosci sortowania - malejaca lub rosnaca.
+3. Napisz prosta baze danych, ktora trzyma dane w pamieci. Kazdy rekord powinien zawierac unikalny klucz oraz pole imie, nazwisko, wiek. Baza powinna miec 3 funkcjie: dodawanie nowych rekordow, usuwanie, wyszukiwanie po nazwisku. Do realizacji operacji uzyj funkcji z naglowka STL algorithms.
